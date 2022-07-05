@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obimbiyo
+- 👋 Hi, I’m obiyo onyekwo
 - 👀 I’m interested in frontend engineering
 - 🌱 I’m currently learning frontend engineering
 - 💞️ I’m looking to collaborate on different programming tasks
