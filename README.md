@@ -1,6 +1,6 @@
-- 👋 Hi, I’m obiyo onyekwo
-- 👀 I’m interested in frontend engineering
-- 🌱 I’m currently learning frontend engineering
+- 👋 Hi, I’m Obiyo Onyekwo
+- 👀 I’m a Frontend engineer
+- 🌱 I’m currently learning JAVAScript engineering
 - 💞️ I’m looking to collaborate on different programming tasks
 - 📫 How to reach me obiyoonyekwo@gmail.com
 
