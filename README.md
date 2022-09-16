@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obiyo Onyekwo
 - 👀 I’m a Frontend engineer
-- 🌱 I’m currently learning JAVAScript engineering
+- 🌱 I’m currently learning javaScript programing language
 - 💞️ I’m looking to collaborate on different programming tasks
 - 📫 How to reach me obiyoonyekwo@gmail.com
 
